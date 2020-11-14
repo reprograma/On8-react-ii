@@ -20,7 +20,7 @@ Hooks são uma nova adição ao React 16.8. Eles permitem que você use o state 
 
 Hooks são funções que permitem a você “ligar-se” aos recursos de state e ciclo de vida do React a partir de componentes funcionais.
 
-Olha aqui a documentação oficial do [React Hooks](https://www.youtube.com/watch?v=O6P86uwfdR0&list=PLZlA0Gpn_vH8EtggFGERCwMY5u5hOjf-h).
+Olha aqui a documentação oficial do [React Hooks](https://pt-br.reactjs.org/docs/hooks-intro.html).
 
 ### Hooks internos
 
