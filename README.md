@@ -29,7 +29,7 @@ Funções feitas pelo time do react e pela comunidade para nos ajudar a resolver
 Vamos aprender hoje os 2 principais hooks internos:
 
 * useState: atualiza o estado
-* useEffect: gera efeito na tela ao atualizar estado
+* useEffect: gera efeito na tela ao atualizar estado ou na montagem do componente
 
 Uma playlist no youtube para aprender [Hooks internos](https://pt-br.reactjs.org/docs/hooks-intro.html)
 
@@ -78,9 +78,7 @@ Props ou state?
 
 * hooks: ganho, funções internas e customizadas para ajudar a resolver ciclo de vida e estado de componentes
 * state: memória para manipular dados em componentes
-* events
-* desestruturação
-* spread: serve para copiar todos os dados de um array
+
 
 <br>
 
